@@ -1,6 +1,6 @@
 body {
   background-image: url("background test.svg");
-  background-size: 1px 1px;
+  background-size: 100px 100px;
   background-color: pink;
 }
 .spaces{
