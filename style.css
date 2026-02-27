@@ -1,5 +1,6 @@
 body {
   background_image: url("pexels-felix-mittermeier-956981.jpeg");
+  background_color: pink;
 }
 .spaces{
   text-align: right;
