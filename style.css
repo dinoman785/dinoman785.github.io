@@ -1,8 +1,9 @@
 body {
-  background_image: url("pexels-felix-mittermeier-956981.jpeg");
+  background-image: url("pexels-felix-mittermeier-956981.jpeg");
 }
 body {
-  background_color: pink;
-.spaces{
+  background-color: pink;
+}
+  .spaces{
   text-align: right;
 }
