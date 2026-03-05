@@ -13,5 +13,6 @@ body {
   background-image: url("saturn1.jpg");
   background-repeat: no-repeat;
   background-position: right-bottom;
+  margin-left: 200px
   background-attachment: fixed;
 }
