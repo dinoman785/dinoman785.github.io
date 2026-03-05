@@ -1,9 +1,18 @@
 body {
   background-image: url("pexels-felix-mittermeier-956981.jpg");
+  background-image: url("saturn1.jpg");
+  background-repeat: no-repeat
 }
  {
   background-color: pink
 }
   .spaces{
   text-align: right;
+}
+body {
+  background-image: url("saturn1.jpg");
+  background-repeat: no-repeat;
+  background-position: right-bottom;
+  margin-right: 200px;
+  background-attachment: fixed;
 }
