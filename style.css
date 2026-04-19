@@ -4,3 +4,17 @@ body {
   .spaces{
   text-align: right;
 }
+#my_button {
+        padding: 10px;
+        background-color: purple;
+        color: white;
+}
+#my_button:hover {
+        background_color: white;
+        color: purple
+}
+#my_button {
+	padding: 10px;
+	background-color: purple;
+	color: white;
+}
