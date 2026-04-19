@@ -13,3 +13,18 @@ body {
         background_color: white;
         color: purple
 }
+<style>
+span {
+	background-color: red;
+	padding: 5px;
+}
+
+#container {
+	display: flex;
+}
+</style>
+<div id="container">
+	<span> Text 1 </span>
+	<span> Text 2 </span>
+	<span> Text 3 </span>
+</div>
