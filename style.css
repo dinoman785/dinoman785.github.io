@@ -6,6 +6,7 @@ span {
 
 #container {
 	display: flex;
+    jusify-content: center;
 }
 </style>
 <div id="container">
