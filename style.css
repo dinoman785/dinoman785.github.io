@@ -8,16 +8,6 @@ span {
 	display: flex;
     jusify-content: center;
 }
-</style>
-<div id="container">
-	<span> <a href="https://dinoman785.github.io/index.html">back</a> </span>
-    <span> <a href="https://dinoman785.github.io/contact.html">contact.html</a> </span>
-    <span> <a href="https://dinoman785.github.io/books.html">books.html</a> </span>
-    <span> <a href="https://dinoman785.github.io/food.html">food.html</a> </span> 
-    <span> <a href="https://dinoman785.github.io/about.html">about.html</a> </span>
-    <span> <a href="https://dinoman785.github.io/new.html">about this website!</a> </span>
-    <span> <a href="https://dinoman785.github.io/space.html">space images</a> </span>
-</div>
 
 body {
   background-color:#0398fc;
