@@ -1,14 +1,3 @@
-<style>
-span {
-    background-color: blue;
-	padding: 5px;
-}
-
-#container {
-	display: flex;
-    jusify-content: center;
-}
-
 body {
   background-color:#0398fc;
 }
