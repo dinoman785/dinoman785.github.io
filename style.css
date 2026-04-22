@@ -13,3 +13,13 @@ body {
         background_color: white;
         color: purple
 }
+
+#my_button {
+        padding: 2px;
+        background-color: purple;
+        color: white;
+}
+#my_button:hover {
+        background_color: white;
+        color: purple;
+}
