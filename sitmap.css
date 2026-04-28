@@ -14,8 +14,3 @@ body {
   .spaces{
   text-align: right;
 }
-
-a:hover {
-  background-color: yellow;
-  font-size: 18px;
-} 
