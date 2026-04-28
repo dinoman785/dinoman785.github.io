@@ -1,4 +1,4 @@
-style {
+<style>
 #my_button {
         padding: 2px;
         background-color: purple;
@@ -14,3 +14,4 @@ body {
   .spaces{
   text-align: right;
 }
+</style>
