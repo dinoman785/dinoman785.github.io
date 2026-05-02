@@ -3,7 +3,7 @@
         background-color: purple;
         color: white;
 }
-#my_button:hover {
+#my_button: hover {
         background_color: white;
         color: purple;
 }
