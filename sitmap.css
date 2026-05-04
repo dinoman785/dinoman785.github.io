@@ -3,7 +3,6 @@ body {
 .spaces {
         text-align: right;
  }
-</style> 
 #my_button {
         padding: 2px;
         background-color: purple;
@@ -12,4 +11,5 @@ body {
 #my_button:hover {
         background_color: white;
         color: purple;
+}
 }
