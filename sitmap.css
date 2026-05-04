@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: #0398fc;}
-.spaces{
-text-align: right;
-</style>
-</head>
-<body>
+body {
+ background-color: #0398fc;
+ .spaces {
+        text-align: right;
+ }
 #my_button {
         padding: 2px;
         background-color: purple;
@@ -16,6 +11,5 @@ text-align: right;
 #my_button:hover {
         background_color: white;
         color: purple;
-  }
-  </body>
-  </html>
+}
+}        
